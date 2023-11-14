@@ -49,7 +49,7 @@ jobs:
           include-prerelease: true
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore PipelineDemo/PipelineDemo.sln
 
       - name: Run tests
         run: dotnet test PipelineDemo/PipelineDemo.Tests/PipelineDemo.Tests.csproj --configuration Release
