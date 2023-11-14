@@ -26,3 +26,6 @@ jobs:
       
     - name: Build
       run: dotnet build PipelineDemo/PipelineDemo/PipelineDemo.csproj --no-restore
+
+    - name: Test
+      run: dotnet test PipelineDemo/PipelineDemo.Tests/PipelineDemo.Tests.csproj --no-build --verbosity normal
