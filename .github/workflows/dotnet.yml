@@ -25,4 +25,4 @@ jobs:
       run: dotnet restore PipelineDemo/PipelineDemo.sln
       
     - name: Build
-      run: dotnet build PipelineDemo/PipelineDemo/PipelineDemo.sln --no-restore
+      run: dotnet build PipelineDemo/PipelineDemo/PipelineDemo.csproj --no-restore
