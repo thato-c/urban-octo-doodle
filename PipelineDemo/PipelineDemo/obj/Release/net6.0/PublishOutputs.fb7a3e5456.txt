@@ -1,0 +1,7 @@
+C:\Users\tchit\OneDrive\urban-octo-doodle\PipelineDemo\PipelineDemo\obj\Release\net6.0\PubTmp\Out\PipelineDemo.exe
+C:\Users\tchit\OneDrive\urban-octo-doodle\PipelineDemo\PipelineDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\tchit\OneDrive\urban-octo-doodle\PipelineDemo\PipelineDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\tchit\OneDrive\urban-octo-doodle\PipelineDemo\PipelineDemo\obj\Release\net6.0\PubTmp\Out\PipelineDemo.dll
+C:\Users\tchit\OneDrive\urban-octo-doodle\PipelineDemo\PipelineDemo\obj\Release\net6.0\PubTmp\Out\PipelineDemo.deps.json
+C:\Users\tchit\OneDrive\urban-octo-doodle\PipelineDemo\PipelineDemo\obj\Release\net6.0\PubTmp\Out\PipelineDemo.runtimeconfig.json
+C:\Users\tchit\OneDrive\urban-octo-doodle\PipelineDemo\PipelineDemo\obj\Release\net6.0\PubTmp\Out\PipelineDemo.pdb
